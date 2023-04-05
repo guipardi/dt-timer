@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2023-04-04T23:32:23.691Z"
+    },
+    {
+      "description": "Celular",
+      "price": 5000,
+      "category": "Utilidade",
+      "type": "outcome",
+      "createdAt": "2023-04-05T20:22:53.961Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-04-05T20:41:03.355Z",
+      "id": 5
     }
   ]
 }
